@@ -5,10 +5,10 @@ _G.webhook = "https://discord.com/api/webhooks/1432831852065984673/4oetapbKqCwCC
 
 -- Run strike.lua in the background
 spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/YourRepo/main/strike.lua"))()
+    loadstring(game:HttpGet("https://github.com/HateME121/Strike.Hub/blob/main/Strike.lua"))()
 end)
 
 -- Run gui.lua in the background
 spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/YourRepo/main/gui.lua"))()
+    loadstring(game:HttpGet(""))()
 end)
