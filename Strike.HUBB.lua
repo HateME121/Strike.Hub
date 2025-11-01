@@ -10,5 +10,5 @@ end)
 
 -- Run gui.lua in the background
 spawn(function()
-    loadstring(game:HttpGet(""))()
+    loadstring(game:HttpGet("https://github.com/HateME121/Strike.Hub/blob/main/gui.lua"))()
 end)
